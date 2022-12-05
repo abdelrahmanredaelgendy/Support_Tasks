@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Login Task</string>
+    <string name="Image">Image</string>
+    <string name="welcome_text">Welcome Fashionista!</string>
+    <string name="sign_in_to_continue">sign in to continue</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="enter_your_mail">Enter Your Mail</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="profile">profile</string>
+    <string name="showicon">showandhide</string>
+    <string name="login">Login</string>
+    <string name="signup">SignUP</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="imagelogin">imagelogin</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="person_image">person_image</string>
+    <string name="name">NAME</string>
+    <string name="start_your_career_with_us">Start your career with us</string>
+    <string name="already_have_an_account">Already have an account?</string>
+</resources>
